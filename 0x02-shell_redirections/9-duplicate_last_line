@@ -1,0 +1,2 @@
+#!/bin/bash
+taikl -n 1 < iacta >> iacta 
